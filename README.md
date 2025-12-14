@@ -1,6 +1,8 @@
 # 霍夫曼编码器
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Qt](https://img.shields.io/badge/Qt-6.0+-41CD52?logo=qt&logoColor=white)](https://www.qt.io/)
+[![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)
 
 基于 Qt 开发的霍夫曼编码与解码工具，支持文本的编码、解码及校验功能。
 
