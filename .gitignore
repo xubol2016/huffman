@@ -1,0 +1,23 @@
+# Build directory
+build/
+
+# Qt Creator settings
+.qtcreator/
+
+# User-specific files
+*.user
+*.user.*
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Generated files
+Makefile
